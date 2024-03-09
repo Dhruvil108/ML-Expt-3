@@ -1,0 +1,5 @@
+outs:
+- md5: 8da8d15c0133f5bae90d93dd1d42c905
+  size: 33
+  hash: md5
+  path: Expt3.txt
